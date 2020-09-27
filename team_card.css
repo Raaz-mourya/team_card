@@ -37,6 +37,7 @@ body{
 	height: 35px;
 	line-height: 35px;
 	border: 1px solid #000;
+	border-radius: 10px;
 	cursor:pointer;
 	margin: 0px 7px;
 	transition: .5s;
